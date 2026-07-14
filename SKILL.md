@@ -1,3 +1,8 @@
+---
+name: disease-mapping
+description: Use when performing pharmaceutical indication disease mapping with China ICD-10 Medical Insurance Version and internal disease taxonomy rules.
+---
+
 # Disease Mapping Skill
 
 ## Skill Overview
